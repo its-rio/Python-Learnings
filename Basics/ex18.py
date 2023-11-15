@@ -1,5 +1,5 @@
 # Set data structure, define in {}
-# it is immutable, means unchangable, 
+# it is mutable, means changable, 
 #store only unique values
 # index is not exist in set, Cannot access with index no.
 #thats why it callesd unordered, koi bhi value kahi bhi

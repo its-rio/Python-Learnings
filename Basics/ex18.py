@@ -8,7 +8,7 @@
 marks = {23, 45,65,23,23,45,65,78,65}
 
 print(marks)
-# print(marks.index(34))
+# print(marks.index(34)) 
 
 for i in marks:
     print(i)
